@@ -1,0 +1,8 @@
+Assignment                     Score      Month      Day        Year      
+----------                     -----      -----      ---        ----      
+Lab 1                          70.0       com.mycompany.homework5.Submission@40d1425d
+Quiz 1                         85.0       com.mycompany.homework5.Submission@72fc1d99
+Homework 1                     90.0       com.mycompany.homework5.Submission@402076c7
+Exam 1                         80.0       com.mycompany.homework5.Submission@5543a3b2
+
+Average Score : 81.25
